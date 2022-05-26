@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap");
+.App {
+  text-align: center;
+  font-family: "Rubik Wet Paint", cursive;
+  background-color: #a6d2e2;
+  justify-content: center;
+}
+.flexbox {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.card {
+  margin: 12px;
+}
+.Navbar {
+  position: sticky;
+}
+
+#cardTitle {
+  font-family: "IBM Plex Serif", serif;
+}
